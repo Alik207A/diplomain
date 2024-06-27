@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diplomain/static/css/main.3dc8e573.css",
+    "main.js": "/diplomain/static/js/main.38d51e2d.js",
+    "index.html": "/diplomain/index.html",
+    "main.3dc8e573.css.map": "/diplomain/static/css/main.3dc8e573.css.map",
+    "main.38d51e2d.js.map": "/diplomain/static/js/main.38d51e2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc8e573.css",
+    "static/js/main.38d51e2d.js"
+  ]
+}

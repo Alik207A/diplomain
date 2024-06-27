@@ -1,0 +1,30 @@
+.about-logo {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.phones {
+    border: 1px solid black;
+    background-color: a;
+}
+.notebook{
+    border: 1px solid black;
+}
+
+.kd {
+    color: red;
+    font-size: 19px;
+}
+.about {
+    display: flex;
+    margin-bottom: 30px;
+    gap: 20px;
+}
+
+.contact {
+    display: flex;
+}
+
+.numbers {
+    width: 250px;
+}
